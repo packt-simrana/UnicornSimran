@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/simrawtwacpl/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "f3701e22-c201-0000-3428-0b442d9f62ef",
+    "name": "Finance Regression Tests",
+    "key": "FIN"
+  }
+}
